@@ -1,1 +1,1 @@
-datasciencecoursera
+ds-coursera
